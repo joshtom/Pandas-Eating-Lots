@@ -10,6 +10,7 @@ module.exports = {
         path: `${__dirname}/src/`
       },
     },
+    `gatsby-transformemer-remark`,
     `gatsby-plugin-emotion`,
     {
       resolve: `gatsby-plugin-typography`,
