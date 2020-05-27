@@ -7,4 +7,4 @@ Pandas can be friendly to family.
 
 Here's a video of both breed playing together.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4n0xNbfJLR8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Zgd_cXpU1ys" frameborder="0" allowfullscreen></iframe>
