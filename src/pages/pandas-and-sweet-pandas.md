@@ -1,10 +1,10 @@
 ---
-title: "Sweet Pandas Eating Sweets"
-date: "2017-08-10"
+title: "Pandas and Sweet pandas"
+date: "2017-11-10"
 ---
 
-Pandas are really sweet.
+Pandas can be friendly to family.
 
-Here's a video of a panda eating sweets.
+Here's a video of both breed playing together.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4n0xNbfJLR8" frameborder="0" allowfullscreen></iframe>
